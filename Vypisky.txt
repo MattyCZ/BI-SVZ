@@ -1,0 +1,8 @@
+vinětace - okraj méně světla než střed
+	 - zmírňuje se větší clonou
+aberace - barevné lemování na hranách
+	- zmírněno zacloněním
+difrakce - snížení ostrosti při velké cloně
+	 - hledání sweet spotu - co nejmenší aberace, vinětace a difrakce
+distorze - zakřivení rovných čar
+	 - odstraněno kalibrací
