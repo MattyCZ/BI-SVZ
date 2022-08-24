@@ -1,7 +1,7 @@
 nbconvert==6.5.1
 jupyter_contrib_nbextensions==0.5.1
 jupyter_nbextensions_configurator==0.4.1
-opencv_python==4.1.1.26
+opencv_python==4.2.0.32
 matplotlib==3.1.1
 pypylon==1.4.0
 Pillow==9.0.1
